@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="JavascriptFunctions" constructor="JavascriptEVAL" version="0.0.1" display-name-key="JavascriptEVAL" description-key="JavascriptEVAL description" control-type="standard" api-version="1.3.6">
+    <external-service-usage enabled="false"/>
+    <property name="FormulaProperty" display-name-key="Formula" description-key="Formula_to_execute_by_EVAL" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <property name="DecimalPlaces" display-name-key="Decimal places" description-key="Number_of_decimal_places" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <property name="FormulaStyle" display-name-key="Style" description-key="Formula_style" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <property name="FormulaResult" display-name-key="Result value" description-key="Formula_result" of-type="SingleLine.Text" usage="output" default-value=""/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+    </resources>
+    <built-by name="pac" version="1.27.5"/>
+  </control>
+</manifest>

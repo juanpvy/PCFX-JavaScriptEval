@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/NikbqcNuqk/5gWg7luIAbOc4SMMEIsnSy1etLeboUJgQ1OhaR0a6Vas+T7z8Was+dFoDE7Iy3d9T0Im9EI5Q==",
+  "success": true,
+  "projectFilePath": "C:\\docsjuan\\reposdecodigo\\personal\\PCFx\\JavascriptEval\\JavascriptEVAL\\JavascriptEVALSolution\\JavascriptEVALSolution.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.27.6\\microsoft.powerapps.msbuild.pcf.1.27.6.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.27.6\\microsoft.powerapps.msbuild.solution.1.27.6.nupkg.sha512"
+  ],
+  "logs": []
+}

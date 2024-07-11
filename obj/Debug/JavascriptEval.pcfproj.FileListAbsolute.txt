@@ -1,0 +1,2 @@
+C:\docsjuan\reposdecodigo\personal\PCFx\JavascriptEval\obj\Debug\JavascriptEval.pcfproj.AssemblyReference.cache
+C:\docsjuan\reposdecodigo\personal\PCFx\JavascriptEval\obj\Debug\JavascriptEval.pcfproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+2023-10-11 10:32:14.992 - Info	
+Packing C:\docsjuan\reposdecodigo\personal\PCFx\JavascriptEval\JavascriptEVAL\JavascriptEVALSolution\obj\Debug\Metadata to bin\Debug\JavascriptEVALSolution.zip
+
+2023-10-11 10:32:15.000 - Info	Processing Component: Entities
+2023-10-11 10:32:15.002 - Info	Processing Component: Roles
+2023-10-11 10:32:15.005 - Info	Processing Component: Workflows
+2023-10-11 10:32:15.005 - Info	Processing Component: FieldSecurityProfiles
+2023-10-11 10:32:15.006 - Info	Processing Component: Templates
+2023-10-11 10:32:15.006 - Info	Processing Component: EntityMaps
+2023-10-11 10:32:15.007 - Info	Processing Component: EntityRelationships
+2023-10-11 10:32:15.011 - Info	Processing Component: OrganizationSettings
+2023-10-11 10:32:15.011 - Info	Processing Component: optionsets
+2023-10-11 10:32:15.011 - Info	Processing Component: CustomControls
+2023-10-11 10:32:15.017 - Info	 - JavascriptFunctions.JavascriptEVAL
+2023-10-11 10:32:15.019 - Info	Processing Component: SolutionPluginAssemblies
+2023-10-11 10:32:15.020 - Info	Processing Component: EntityDataProviders
+2023-10-11 10:32:15.041 - Info	
+Unmanaged Pack complete.
+
