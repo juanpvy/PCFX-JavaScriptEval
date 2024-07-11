@@ -2,7 +2,12 @@
 
 Executes an eval function over the parameter given and displays the result in input control
 
-# How to use
+## How to Install?
+
+Download the "javascriptevalsolution_1_1_managed.zip" file and import it in Power Apps portal, read this link https://blog.inavant.com.mx/create-a-power-app-custom-code-control/ section "Install package" in order the get more details.
+
+
+## How to use
 Use property "FormulaProperty" in order to send the formula to execute
 
 The value can be get it from "FormulaResult" property
